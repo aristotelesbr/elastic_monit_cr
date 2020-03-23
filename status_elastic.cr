@@ -12,7 +12,7 @@ loop do
       when "yellow"
         status = "Warning!".colorize(:yellow)
       when "green"
-        status = "God".colorize(:green)
+        status = "Good".colorize(:green)
       end
 
       indice_name = split_line[2].gsub(/([0-9])/, "").gsub(/\_/, " ")
