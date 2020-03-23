@@ -15,19 +15,19 @@ Yout output like this:
 
 ```bash
 
- SIZE: Warning!
+      SIZE: Warning!
       STAUTS: open
       NAME INDICE: your index
       SIZE: 949.1kb of 949.1kb
 
 
-      SIZE: God
+      SIZE: Good
       STAUTS: open
       NAME INDICE: your index
       SIZE: 94.4mb of 94.4mb
 
 
-      SIZE: God
+      SIZE: Good
       STAUTS: open
       NAME INDICE: your index
       SIZE: 54.6kb of 54.6kb
