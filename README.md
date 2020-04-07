@@ -1,6 +1,6 @@
 # elastic_monit_cr
 
-script to monitor elasticsearch indexes
+tool to monitor elasticsearch indexes
 
 
 ## Run
